@@ -5,6 +5,7 @@
 - [guide](https://guide.meteor.com/mobile.html#introduction)
 - [tutorial](https://www.meteor.com/tutorials)
 
+- [Rocket Chat Github](https://github.com/RocketChat/Rocket.Chat)
 <a name="zasNk"></a>
 ## Intro
 Meteor give a very quick travel to build an app with some done user system. Unfortunately, this function costs a lot because these bonus is from the binding of mongoDB.
